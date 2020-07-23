@@ -7,11 +7,11 @@
 ## 2. OpenCV 사용하여 제품 판정 코드 설명
 - 검사 하고자 하는 Product의 Image를 load 한다.
 <br>
-<img src="https://user-images.githubusercontent.com/60453719/88246787-8d112480-ccd6-11ea-8c45-703fe749c9be.JPG">
+    <img src="https://user-images.githubusercontent.com/60453719/88246787-8d112480-ccd6-11ea-8c45-703fe749c9be.JPG">
 
 - 검사 부위 별(left, middle, right)로 이진화 처리를 한다.
 <br>
-<img src="https://user-images.githubusercontent.com/60453719/88246975-22141d80-ccd7-11ea-8ef8-47c31de78bc3.JPG">
+    <img src="https://user-images.githubusercontent.com/60453719/88246975-22141d80-ccd7-11ea-8ef8-47c31de78bc3.JPG">
 
 - left와 right part의 전체 도형 넓이와 원이 넓이 및 middle part의 도형의 넓이를 구한다.
     
@@ -60,9 +60,9 @@
     <br>
 - load버튼 클릭 시 사진 로드 되도록 구현
     <br>
-    <https://user-images.githubusercontent.com/60453719/88247098-7f0fd380-ccd7-11ea-8f69-96feab079af3.JPG">
+    <img src="https://user-images.githubusercontent.com/60453719/88247098-7f0fd380-ccd7-11ea-8f69-96feab079af3.JPG">
     <br>
-    <https://user-images.githubusercontent.com/60453719/88247105-8505b480-ccd7-11ea-80a1-cc982e55ffbe.JPG">
+    <img src="https://user-images.githubusercontent.com/60453719/88247105-8505b480-ccd7-11ea-80a1-cc982e55ffbe.JPG">
     <br>
 
 ## 4. 개발 언어
