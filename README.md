@@ -7,7 +7,7 @@
 ## 2. OpenCV 사용하여 제품 판정 코드 설명
 - 검사 하고자 하는 Product의 Image를 load 한다.
 <br>
-![1](https://user-images.githubusercontent.com/60453719/88246787-8d112480-ccd6-11ea-8c45-703fe749c9be.JPG)
+<img width="200" src="https://user-images.githubusercontent.com/60453719/88246787-8d112480-ccd6-11ea-8c45-703fe749c9be.JPG">
 
 - 검사 부위 별(left, middle, right)로 이진화 처리를 한다.
 <br>
